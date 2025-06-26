@@ -100,7 +100,7 @@ class BERTClassifier:
 
 def train_text_classifier():
     # Load the sentiment data with correct column names
-    df = pd.read_csv('/home/ivan-koptiev/Codes/Codes/portfolio website/github projects/NLP_Bert/sentiment_data.csv')
+    df = pd.read_csv('sentiment_data.csv')
     texts = df['SentimentText'].astype(str).tolist()
     labels = df['Sentiment'].astype(int).tolist()
     # Use 20,000 for training, 5,000 for validation
