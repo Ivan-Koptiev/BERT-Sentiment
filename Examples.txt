@@ -1,0 +1,91 @@
+***This file conatins examples of newly fine tuned BERT classifying some text***
+
+Text: I love this movie! It was fantastic.
+Predicted Sentiment: Positive
+
+Text: This is the worst product I have ever bought.
+Predicted Sentiment: Negative
+
+Text: Not bad, but could be better.
+Predicted Sentiment: Negative
+
+Text: Absolutely wonderful experience.
+Predicted Sentiment: Positive
+
+Text: I hate waiting in line.
+Predicted Sentiment: Negative
+
+Text: The food was okay, nothing special.
+Predicted Sentiment: Negative
+
+Text: Best day ever!
+Predicted Sentiment: Positive
+
+Text: Terrible customer service.
+Predicted Sentiment: Negative
+
+Text: I'm not sure how I feel about this.
+Predicted Sentiment: Negative
+
+Text: It was fine, I guess.
+Predicted Sentiment: Negative
+
+Text: I can't recommend this enough!
+Predicted Sentiment: Negative
+
+Text: Awful, just awful.
+Predicted Sentiment: Negative
+
+Text: The staff was friendly and helpful.
+Predicted Sentiment: Positive
+
+Text: I will never come back here again.
+Predicted Sentiment: Negative
+
+Text: Mediocre at best.
+Predicted Sentiment: Negative
+
+Text: Exceeded my expectations!
+Predicted Sentiment: Negative
+
+Text: The packaging was damaged.
+Predicted Sentiment: Negative
+
+Text: Superb quality and fast shipping.
+Predicted Sentiment: Positive
+
+Text: Disappointing experience overall.
+Predicted Sentiment: Negative
+
+Text: I am so happy with my purchase!
+Predicted Sentiment: Positive
+
+Text: It broke after one use.
+Predicted Sentiment: Negative
+
+Text: Five stars!
+Predicted Sentiment: Positive
+
+Text: One of the best I've tried.
+Predicted Sentiment: Positive
+
+Text: Not worth the money.
+Predicted Sentiment: Negative
+
+Text: I feel neutral about this.
+Predicted Sentiment: Negative
+
+Text: It was okay, not great, not terrible.
+Predicted Sentiment: Negative
+
+Text: I expected more for the price.
+Predicted Sentiment: Negative
+
+Text: My friends all loved it.
+Predicted Sentiment: Positive
+
+Text: Would not buy again.
+Predicted Sentiment: Negative
+
+Text: A pleasant surprise!
+Predicted Sentiment: Positive
