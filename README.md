@@ -29,7 +29,7 @@ pip install torch transformers pandas numpy scikit-learn
 
 -Clone repository:
 ```bash
-git clone "https://github.com/Sat1x/BERT-Sentiment"
+git clone "https://github.com/Ivan-Koptiev/BERT-Sentiment"
 ```
 
 -Run:
